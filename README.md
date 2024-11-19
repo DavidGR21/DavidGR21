@@ -27,7 +27,7 @@ Me encanta **desarrollar**, **aprender** y **compartir** mis conocimientos en el
 ## 📈 **Estadísticas de GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidGR21&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
 
 ---
