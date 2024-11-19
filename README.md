@@ -21,7 +21,7 @@ Me encanta **desarrollar**, **aprender** y **compartir** mis conocimientos en el
 
 ## 🛠️ **Tecnologías y Herramientas**
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,aws,react,nodejs,mysql,php,git,github,gitlab,tailwind,discord,gmail,latex,vite,vscode,npm&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,aws,react,nodejs,mysql,php,git,github,gitlab,tailwind,discord,gmail,latex,vite,vscode,npm&perline=5)](https://skillicons.dev)
 
 ---
 
