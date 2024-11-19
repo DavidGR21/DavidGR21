@@ -21,7 +21,7 @@ Me encanta **desarrollar**, **aprender** y **compartir** mis conocimientos en el
 
 ## 🛠️ **Tecnologías y Herramientas**
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,aws,react,nodejs,mysql,php,git,github,gitlab,discord,gmail&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,aws,react,nodejs,mysql,php,git,github,gitlab,tailwind,discord,gmail,latex,vite,vscode,npm&perline=4)](https://skillicons.dev)
 
 ---
 
@@ -30,14 +30,6 @@ Me encanta **desarrollar**, **aprender** y **compartir** mis conocimientos en el
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidGR21&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
-
----
-
-## 🌐 **Conéctate conmigo**
-
-- 🐦 [Twitter](https://twitter.com/tu_usuario)
-- 💼 [LinkedIn](https://linkedin.com/in/david-giler-rizzo)
-- 🌎 [Portafolio](https://tu_portafolio.com)
 
 ---
 
