@@ -1,4 +1,8 @@
-# 👋 ¡Hola! Soy [Tu Nombre/Usuario]  
+# 👋 ¡Hola! Soy DAVID
+
+<p align="start">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Desarrollador+de+Software;Siempre+listo+para+nuevos+retos" alt="Typing SVG" /></a>
+</p>
 
 🌟 **Bienvenido a mi perfil de GitHub** 🌟  
 Me encanta **desarrollar**, **aprender** y **compartir** mis conocimientos en el mundo de la tecnología. Aquí encontrarás mis proyectos, experimentos y contribuciones.  
@@ -7,20 +11,17 @@ Me encanta **desarrollar**, **aprender** y **compartir** mis conocimientos en el
 
 ## 🚀 **Acerca de mí**
 
-- 🌱 Actualmente aprendiendo **[tu tecnología o tema]**.
-- 👨‍💻 Interesado en **[temas de interés]**.
-- 💬 Pregúntame sobre **[habilidades o tecnologías que dominas]**.
-- 🎯 Mi objetivo: **[tu meta profesional o personal]**.
-- ⚡ Dato curioso: **[un hecho interesante sobre ti]**.
+- 🌱 Actualmente aprendiendo **[METODOLOGÍAS ÁGILES Y AMPLIANDO MI CONOCIMIENTO EN REACT]**.
+- 👨‍💻 Interesado en **[DESARROLLO DE APLICACIONES CON INTELIGENCIA ARTIFICIAL]**.
+- 💬 Pregúntame sobre **[PROGRAMACION DE ESCRITORIO CON JAVA, DISEÑO Y NORMALIZACION DE BASE DE DATOS]**.
+- 🎯 Mi objetivo: **[DESARROLLARME PROFESIONALMENTE Y TRABAJAR EN UNA EMPRESA EN LA QUE PUEDA DESARROLLAR TODAVÍA MAS MIS CONOCIMIENTOS]**.
+- ⚡ Dato curioso: **[MI PRIMER LENGUAJE DE PROGRAMACIÓN FUE JAVA]**.
 
 ---
 
 ## 🛠️ **Tecnologías y Herramientas**
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,aws,react,nodejs,mysql,php,git,github,gitlab,discord,gmail&perline=4)](https://skillicons.dev)
 
 ---
 
@@ -35,7 +36,7 @@ Me encanta **desarrollar**, **aprender** y **compartir** mis conocimientos en el
 ## 🌐 **Conéctate conmigo**
 
 - 🐦 [Twitter](https://twitter.com/tu_usuario)
-- 💼 [LinkedIn](https://linkedin.com/in/tu_usuario)
+- 💼 [LinkedIn](https://linkedin.com/in/david-giler-rizzo)
 - 🌎 [Portafolio](https://tu_portafolio.com)
 
 ---
