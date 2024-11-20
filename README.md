@@ -34,3 +34,7 @@ Me encanta **desarrollar**, **aprender** y **compartir** mis conocimientos en el
 ---
 
 ⭐️ **¡Gracias por visitar mi perfil!** Si te gusta mi trabajo, considera darle una estrella a algún proyecto. 😉
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=DavidGR21&icon=0&color=0)](https://visitcount.itsvg.in)
