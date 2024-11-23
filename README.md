@@ -16,6 +16,7 @@ Me encanta **desarrollar**, **aprender** y **compartir** mis conocimientos en el
 - 💬 Pregúntame sobre **[PROGRAMACION DE ESCRITORIO CON JAVA, DISEÑO Y NORMALIZACION DE BASE DE DATOS]**.
 - 🎯 Mi objetivo: **[DESARROLLARME PROFESIONALMENTE Y TRABAJAR EN UNA EMPRESA EN LA QUE PUEDA DESARROLLAR TODAVÍA MAS MIS CONOCIMIENTOS]**.
 - ⚡ Dato curioso: **[MI PRIMER LENGUAJE DE PROGRAMACIÓN FUE JAVA]**.
+- ✨ Visita mi Portafolio: <a href="https://davidgr21.github.io/Mi_Portafolio/">David Giler</a>
 
 ---
 
