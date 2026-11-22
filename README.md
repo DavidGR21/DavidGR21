@@ -112,21 +112,21 @@
 <h3 align="center">03 &nbsp;/&nbsp; ACTIVITY</h3>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidGR21&theme=github_dark&v=1795354974" alt="GitHub stats"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidGR21&theme=github_dark&v=1795354974" alt="Top languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidGR21&theme=github_dark&v=1795388077" alt="GitHub stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidGR21&theme=github_dark&v=1795388077" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DavidGR21&hide_border=true&background=061a1b&ring=2ec4b6&fire=9ff0e3&currStreakLabel=2ec4b6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=b9d8d4&dates=5f8f8a&v=1795354974" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=DavidGR21&hide_border=true&background=061a1b&ring=2ec4b6&fire=9ff0e3&currStreakLabel=2ec4b6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=b9d8d4&dates=5f8f8a&v=1795388077" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidGR21&custom_title=CONTRIBUTIONS&bg_color=061a1b&color=2ec4b6&line=2ec4b6&point=9ff0e3&area=true&area_color=2ec4b6&hide_border=true&v=1795354974" width="100%" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidGR21&custom_title=CONTRIBUTIONS&bg_color=061a1b&color=2ec4b6&line=2ec4b6&point=9ff0e3&area=true&area_color=2ec4b6&hide_border=true&v=1795388077" width="100%" alt="Contribution graph"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/DavidGR21?style=flat-square&labelColor=061a1b&color=2ec4b6&label=FOLLOWERS&v=1795354974" alt="Followers"/>
-  <img src="https://img.shields.io/github/last-commit/DavidGR21/DavidGR21?style=flat-square&labelColor=061a1b&color=1a8a80&label=LAST%20COMMIT&v=1795354974" alt="Last commit"/>
+  <img src="https://img.shields.io/github/followers/DavidGR21?style=flat-square&labelColor=061a1b&color=2ec4b6&label=FOLLOWERS&v=1795388077" alt="Followers"/>
+  <img src="https://img.shields.io/github/last-commit/DavidGR21/DavidGR21?style=flat-square&labelColor=061a1b&color=1a8a80&label=LAST%20COMMIT&v=1795388077" alt="Last commit"/>
 </p>
 
 <br/>
